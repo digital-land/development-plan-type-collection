@@ -1,4 +1,4 @@
-pipeline,resource,organisation,value,entity
+prefix,resource,organisation,reference,entity
 development-plan-type,,,area-action-plan,5200000
 development-plan-type,,,core-strategy,5200001
 development-plan-type,,,development-management,5200002
